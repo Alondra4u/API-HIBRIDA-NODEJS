@@ -15,8 +15,3 @@ La API REST fue desarrollada en Node.js y proporciona los servicios necesarios p
 - MongoDB
 - JavaScript
 
-
-
-## Problema resuelto
-
-Permitir a los usuarios reportar publicaciones que incumplieran las normas de la plataforma o contuvieran información inapropiada, proporcionando herramientas para su administración y seguimiento dentro del sistema.
